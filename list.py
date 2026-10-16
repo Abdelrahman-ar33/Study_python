@@ -1,5 +1,5 @@
 #  -- Lists --
-# [1] List Items Are Enclosed in Square Brackets
+# [1] List Items Are Enclosed in Square Brackets [ ]
 # [2] List Are Ordered, To Use Index To Access Item
 # [3] List Are Mutable => Add, Delete, Edit
 # [4] List Items Is Not Unique
